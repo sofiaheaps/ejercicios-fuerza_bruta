@@ -5,7 +5,7 @@ Accediendo a la página de Mutillidae: <p>
 Accedemos a **OWASP 2017 -> A2 - Broken Authentication and Session Management -> Authentication Bypass -> Via Brute Force -> Login**
 <br>
 
-<h3>Ejercicio 1 – Burp Suite</h3> <p>
+<h3>Ejercicio 1 – BurpSuite</h3> <p>
   
 En este primer ejercicio debemos hacer uso de la herramienta **BurpSuite** con el diccionario creado para conseguir acceder dentro de la página de autenticación. El usuario para acceder es **admin**.
 

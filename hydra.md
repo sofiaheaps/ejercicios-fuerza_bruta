@@ -16,3 +16,4 @@ Agregamos también el texto de error "`Password incorrect`", que es la respuesta
 
 Al ejecutar el comando completo, **Hydra** prueba todas las contraseñas del diccionario contra el usuario **admin**, y finalmente nos devuelve la contraseña válida: **adminpass**.
 
+ <img src="src/hydra.png" alt="hydra" width="600" />
